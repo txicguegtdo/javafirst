@@ -1,3 +1,5 @@
+package course2;
+
 public class HelloWorld {
     //HelloWorld输出程序
     public static void main(String[] args) {
